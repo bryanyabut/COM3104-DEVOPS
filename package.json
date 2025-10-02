@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/bryanyabut/COM3104-DEVOPS/issues"
   },
-  "homepage": "https://github.com/bryanyabut/COM3104-DEVOPS#readme",
+  "homepage": "https://bryanyabut.github.com/COM3104-DEVOPS",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
